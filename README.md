@@ -42,6 +42,7 @@ API_KEY=Last.Fm_api_here
 `python gui.py`
 
 ## Description
+![poster](report_material/ProjectPoster_Ruairi.png)
 This Project was for my Final year project in Electronic Engineering in MTU (Munster Technological University previously known as CIT) In Cork, Ireland. 
 This project presents the development of an emotion-based music player that uses ChatGPT for conversational mood detection and integrates Last.fm for mood-tagged music recommendation. The system allows users to describe how they feel in natural language, extracts their emotional state through a structured prompt, and maps it to weighted mood tags. These tags are used to generate a song list, which is then queued for playback using the Spotify API.
 A modular design was implemented to separate the chatbot, music selection, and playback functions, ensuring flexibility and ease of maintenance. A custom GUI was developed to manage user input and system feedback, with integrated logging for validation and debugging.
